@@ -1,0 +1,15 @@
+#container{
+    background-color: azure;
+}
+.box1 {
+    background-color: gray;
+    color: crimson;
+    text-align: center;
+    height: 500px;
+    width: 800px;
+    font-family: Book Antiqua;
+    margin-bottom: 50px;
+}
+.app{
+    color: bisque;
+}

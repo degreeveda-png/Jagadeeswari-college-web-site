@@ -1,0 +1,127 @@
+.heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.text {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: darkslategray;
+  font-weight: bold;
+  padding-top:20px
+}
+
+.line {
+  width: 100px;
+  height: 2px;
+  background-color:rgb(161, 156, 156);
+  margin-top: 20px;
+}
+#description {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#container1 {
+    border: 5px solid gray;
+    margin: 30px;
+    height: 250px;
+    width: 400px;
+    padding: 10px;
+    font-family: cursive;
+  color: lightseagreen;
+}
+#B {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Broadway;
+}
+/*#box1 {
+    background-color: lightsalmon;
+    font-weight: bold;
+    height: 80px;
+    width: 100px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+    color: darkred;
+}*/
+
+#container2 {
+    border: 5px solid gray  ;
+    margin: 30px;
+    padding: 10px;
+    height: 250px;
+    width: 400px;
+    font-family: cursive;
+    color: lightseagreen;
+}
+#C {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Broadway;
+}
+#container3 {
+    border: 5px solid gray;
+    margin: 30px;
+    padding: 10px;
+    height: 250px;
+    width: 400px;
+    font-family: cursive;
+    color: lightseagreen;
+}
+#D {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Broadway;
+}
+#container4 {
+    border: 5px solid gray;
+    margin: 30px;
+    padding: 10px;
+    height: 250px;
+    width: 400px;
+    font-family: cursive;
+    color: lightseagreen;
+}
+#E {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Broadway;
+}
+#container5 {
+    border: 5px solid gray;
+    margin: 30px;
+    padding: 10px;
+    height: 250px;
+    width: 400px;
+    font-family: cursive;
+    color: lightseagreen;
+}
+#F {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Broadway;
+}
+#container6 {
+    border: 5px solid gray;
+    margin: 30px;
+    padding: 10px;
+    height: 250px;
+    width: 400px;
+    font-family: cursive;
+    color: lightseagreen;
+}
+#G {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Broadway;
+}
